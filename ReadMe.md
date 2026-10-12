@@ -42,6 +42,15 @@ I specialize in designing resilient, high-throughput distributed data architectu
 
 ---
 
+## 🎓 Education
+
+- **Sister Nivedita University (SNU), Kolkata** *(2022 – 2026)*
+  - **Bachelor of Technology (B.Tech) in Computer Science & Engineering (Core)**
+  - **Academic Standing**: **First Class** | **Final CGPA: 8.41 / 10.0 (76.60%)**
+  - **Core Coursework & Foundations**: Distributed Systems, Database Management Systems (DBMS), Data Structures & Algorithms (DSA), Operating Systems, Cloud Computing, Object-Oriented Programming (Java/C++), and Big Data Analytics.
+
+---
+
 ## 🌟 Featured Projects
 
 <table align="center">
