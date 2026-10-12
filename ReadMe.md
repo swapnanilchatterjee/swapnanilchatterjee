@@ -30,7 +30,7 @@ I specialize in designing resilient, high-throughput distributed data architectu
 
 ## 💼 Experience
 
-- **Former Junior Python Developer** | **CLIRNET Services Pvt. Ltd.** *(Feb '26 – Aug '26)*
+- **Former Junior Python Developer Intern** | **CLIRNET Services Pvt. Ltd.** *(Feb '26 – Aug '26)*
   - Developed automated Python backend services, data ingestion pipelines, and ETL transformations supporting digital healthcare platforms.
   - Implemented database queries, API integrations, and data hygiene routines to ensure reliable operational data delivery.
 
