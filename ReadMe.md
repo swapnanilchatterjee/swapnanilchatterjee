@@ -160,12 +160,12 @@ I specialize in designing resilient, high-throughput distributed data architectu
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=swapnanilchatterjee&theme=tokyonight&hide_border=false" width="97%" />
+<img src="https://streak-stats.demolab.com/?user=swapnanilchatterjee&theme=tokyonight&hide_border=false" width="97%" />
 
 <br/>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=swapnanilchatterjee&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://profile-trophy.vercel.app/?username=swapnanilchatterjee&theme=radical&margin-w=4" />
 
 </div>
 
